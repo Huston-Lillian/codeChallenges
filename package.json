@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Knowledge &amp; logic, create &amp; test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huston-Lillian/codeChallenges.git"
+  },
+  "author": "Lillian Huston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huston-Lillian/codeChallenges/issues"
+  },
+  "homepage": "https://github.com/Huston-Lillian/codeChallenges#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
